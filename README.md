@@ -4,4 +4,4 @@ I like to code, but I often forget that I am an amateur and start into huge proj
 
 ## Current Projects
 ### Games
-* [2048](https://www.dysphoricgreens.ml/Coding-Exercises/games/2048)
+* [2048](https://dysphoricgreens.github.io/Coding-Exercises/games/2048)
